@@ -1,0 +1,7 @@
+1. Open and run "MainGui.m" in MATLAB.
+
+2. Click on "select Image" to select a image from the "Resistor Images" folder.
+
+3. Output will show.
+
+4. For selecting another image, click on "Clear Image" first to erase the previous image.
